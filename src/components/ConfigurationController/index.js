@@ -48,7 +48,7 @@ const ConfigurationController = () => (
               checked={showLeftNavbar}
               onChange={toggleShowLeftNavbar}
             />
-            <label htmlFor="layout1" className="label-txt">
+            <label htmlFor="layout2" className="label-txt">
               Left Navbar
             </label>
           </div>
@@ -61,7 +61,7 @@ const ConfigurationController = () => (
               checked={showRightNavbar}
               onChange={toggleShowRightNavbar}
             />
-            <label htmlFor="layout1" className="label-txt">
+            <label htmlFor="layout3" className="label-txt">
               Right Navbar
             </label>
           </div>
