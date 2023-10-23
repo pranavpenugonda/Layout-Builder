@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.header-cont {
+  background-color: #cbd5e1;
+  padding: 10px;
+  width: 60%;
+  text-align: center;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+
+.heading-txt {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 30px;
+}
